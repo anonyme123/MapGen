@@ -1,5 +1,6 @@
 # MapGen
 Random yet natural 2D map generation
+
 ![alt tag](https://github.com/anonyme123/MapGen/blob/master/src/resources/island.jpg?raw=true)
 
 This project allows the generation of a 2D picture representing the map of a fictitious, coherent grounds. 
